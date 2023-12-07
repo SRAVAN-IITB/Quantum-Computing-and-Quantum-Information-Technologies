@@ -1,1 +1,1 @@
-
+The file [Problem statement](Assignments/Week-0/Week_0_Assignment.pdf) and my solution [Assignment submission](Assignments/Week-0/LS__Quantum_Computing__Week_0_submission.pdf) can be accessed via the hyperlinks therein.
